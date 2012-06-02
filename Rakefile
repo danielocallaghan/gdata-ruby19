@@ -41,7 +41,7 @@ spec = Gem::Specification.new do |s|
   s.homepage = 'http://code.google.com/p/gdata-ruby-util'
   s.summary = "Google Data APIs Ruby Utility Library"
   s.rubyforge_project = 'gdata'
-  s.name = 'gdata'
+  s.name = 'gdata-ruby19'
   s.version = '1.1.2'
   s.requirements << 'none'
   s.require_path = 'lib'
